@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>979884287863-pdb7l9tvir13otan7j3l7b9rief2at9r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.979884287863-pdb7l9tvir13otan7j3l7b9rief2at9r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_Hqc_kTKYJ2hnpelmIWRG_QDnFjaXVis</string>
+	<key>GCM_SENDER_ID</key>
+	<string>979884287863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.GonadsEP.PokeFinder</string>
+	<key>PROJECT_ID</key>
+	<string>pokefinder-eb6bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokefinder-eb6bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:979884287863:ios:33663c2805f01490</string>
+	<key>DATABASE_URL</key>
+	<string>https://pokefinder-eb6bb.firebaseio.com</string>
+</dict>
+</plist>
